@@ -18,3 +18,4 @@ Current indexing priority:
 Reference inspiration:
 
 - Andrej Karpathy on LLMs and context management: https://x.com/karpathy/status/2039805659525644595
+- Anthropic on autonomous knowledge base setup: https://x.com/anthropicai/status/2039749628737019925
