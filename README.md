@@ -18,3 +18,10 @@ Current indexing priority:
 Reference inspiration:
 
 - Andrej Karpathy on LLMs and context management: https://x.com/karpathy/status/2039805659525644595
+
+## Wiki entry points
+
+- [Wiki home](wiki/index.md)
+- [Source index](wiki/source-index.md)
+- [Summary layer](wiki/summaries/index.md)
+- [Concept index](wiki/concepts/index.md)
